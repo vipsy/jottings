@@ -1,0 +1,16 @@
+language: android
+
+android:
+  components:
+    - build-tools-24.0.2
+    - android-24
+
+jdk:
+  - oraclejdk7
+
+branches:
+  except:
+    - gh-pages
+
+notifications:
+  email: true
