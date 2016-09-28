@@ -1,0 +1,39 @@
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/selectableItemBackground">
+
+    <LinearLayout
+        android:id="@+id/content_parent"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingStart="@dimen/content_start_margin"
+        android:paddingEnd="@dimen/content_end_margin"
+        android:paddingLeft="@dimen/content_start_margin"
+        android:paddingRight="@dimen/content_end_margin">
+
+        <TextView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            style="@style/JottingList_Header"
+            tools:text="Bangalore"/>
+
+        <TextView
+            android:id="@+id/body"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:layout_marginTop="12dp"
+            android:maxLines="3"
+            android:ellipsize="end"
+            style="@style/JottingList_Body"
+            tools:text="This is garden city Bangalore."/>
+
+    </LinearLayout>
+
+</LinearLayout>

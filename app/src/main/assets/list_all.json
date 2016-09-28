@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "header": "Bangalore",
+    "body": "Bengaluru (also called Bangalore) is the capital of India's southern Karnataka state. The center of India's high-tech industry, the city is also known for its parks and nightlife. By Cubbon Park, Vidhana Soudha is a Neo-Dravidian legislative building. Former royal residences include 19th-century Bangalore Palace, modeled after England’s Windsor Castle, and Tipu Sultan’s Summer Palace, an 18th-century teak structure.",
+    "date_created": "2016-09-28T06:10:00.000Z",
+    "is_finished": false },
+  {
+    "id": 2,
+    "header": "Chandigarh",
+    "body": "Chandigarh, the capital of the northern Indian states of Punjab and Haryana, was designed by modernist architect Le Corbusier. His modernist buildings include the Capitol Complex with its High Court, Secretariat and Legislative Assembly, plus the giant Open Hand Monument. The nearby Rock Garden is a park featuring sculptures made of stones, recycled ceramics and industrial relics.",
+    "date_created": "2016-09-28T07:10:00.000Z",
+    "is_finished": false },
+  {
+    "id": 3,
+    "header": "Kolkata",
+    "body": "Kolkata (formerly Calcutta) is the capital of India's West Bengal state. Founded as an East India Company trading post, it was India's capital under the British Raj from 1773–1911. Today it’s known for its grand colonial architecture, art galleries and cultural festivals. It’s also home to Mother House, headquarters of the Missionaries of Charity, founded by Mother Teresa, whose tomb is on site.",
+    "date_created": "2016-09-28T08:10:00.000Z",
+    "is_finished": true },
+  {
+    "id": 4,
+    "header": "Pune",
+    "body": "Pune is a sprawling city in the western Indian state of Maharashtra. It was once the base of the Peshwas (prime ministers) of the Maratha Empire, which lasted from 1674 to 1818. It's known for the grand Aga Khan Palace, built in 1892 and now a memorial to Mahatma Gandhi, whose ashes are preserved in the garden. The 8th-century Pataleshwar Cave Temple is dedicated to the Hindu god Shiva.",
+    "date_created": "2016-09-28T09:10:00.000Z",
+    "is_finished": false },
+  {
+    "id": 5,
+    "header": "Dehradun",
+    "body": "Dehradun is the capital of the Indian state of Uttarakhand, near the Himalayan foothills. At its core is the 6-sided Ghanta Ghar clock tower. To the southwest is Paltan Bazaar, a busy shopping area. Just east is the Sikh temple Gurdwara Nanaksar, topped with ornate white and golden domes. In Clement Town to the city’s southwest, Mindrolling Monastery is a Tibetan Buddhist center with shrine rooms in its Great Stupa.",
+    "date_created": "2016-09-28T10:10:00.000Z",
+    "is_finished": true },
+  {
+    "id": 6,
+    "header": "Jaipur",
+    "body": "Jaipur is the capital of India’s Rajasthan state. It evokes the royal family that once ruled the region and that, in 1727, founded what is now called the Old City, or “Pink City” for its trademark building color. At the center of its stately street grid (notable in India) stands the opulent, colonnaded City Palace complex. With gardens, courtyards and museums, part of it is still a royal residence.",
+    "date_created": "2016-09-28T11:10:00.000Z",
+    "is_finished": false },
+  {
+    "id": 7,
+    "header": "Ahmedabad",
+    "body": "Ahmedabad, in western India, is the largest city in the state of Gujarat. The Sabarmati River runs through its center. On the western bank is the Gandhi Ashram at Sabarmati, which displays the spiritual leader’s living quarters and artifacts. Across the river, the Calico Museum of Textiles, once a cloth merchant's mansion, has a significant collection of antique and modern fabrics.",
+    "date_created": "2016-09-28T12:10:00.000Z",
+    "is_finished": true },
+  {
+    "id": 8,
+    "header": "Vadodara",
+    "body": "Vadodara, formerly called Baroda, is a city in Gujurat, a state in western India. Kirti Mandir is the mausoleum of the Gaekwad dynasty, which ruled until 1949. It has murals by Bengali artist Nandalal Bose. Tambekar Wada is a 4-story wooden townhouse with 19th-century murals depicting scenes from the Mahabharata epic poem. The Lakshmi Vilas Palace features both Indian and European architectural styles.",
+    "date_created": "2016-09-28T05:10:00.000Z",
+    "is_finished": false },
+  {
+    "id": 9,
+    "header": "Kochi / Cochin",
+    "body": "Kochi (also known as Cochin) is a city in southwest India's coastal Kerala state. It has been a port since 1341, when a flood carved out its harbor and opened it to Arab, Chinese and European merchants. Sites reflecting those influences include Fort Kochi, a settlement with tiled colonial bungalows and diverse houses of worship. Cantilevered Chinese fishing nets, typical of Kochi, have been in use for centuries.",
+    "date_created": "2016-09-28T04:10:00.000Z",
+    "is_finished": false }
+]
